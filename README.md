@@ -1,4 +1,4 @@
-# E20 16-Bit Architecture Assembler & Simulator
+# E20 Processor (16-Bit Architecture) Assembler & Simulator
 
 ## Overview
 Attached is a C++ program that reads a file containing assembly language instructions (with a .s suffix) and then processes and assembles them into machine code. The simulator is a program that will execute E20 machine language. Normally, machine language would be executed by a processor, but for simplicity, we will reproduce the behavior of an E20 processor in software. The final values of the registers, the program counter, and the memory cells will be displayed at the end of the simulation. 
