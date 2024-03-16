@@ -5,11 +5,6 @@ Attached is a C++ program that reads a file containing assembly language instruc
 
 The credit for the E20 processor architecture goes to Professor Jeffrey Epstein.
 
-## Features
-Reads assembly language instructions from a file with a .s extension.
-Translates assembly instructions into machine code.
-Supports various instruction types and addressing modes.
-
 ## Usage
 Commands to run the project, I used Anubis LMS:
 g++ -Wall -o assembler ass.cpp
